@@ -1,0 +1,11 @@
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\bin\Debug\net7.0\coding-kata.deps.json
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\bin\Debug\net7.0\coding-kata.dll
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\bin\Debug\net7.0\coding-kata.pdb
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\obj\Debug\net7.0\coding-kata.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\obj\Debug\net7.0\coding-kata.AssemblyInfoInputs.cache
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\obj\Debug\net7.0\coding-kata.AssemblyInfo.cs
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\obj\Debug\net7.0\coding-kata.csproj.CoreCompileInputs.cache
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\obj\Debug\net7.0\coding-kata.dll
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\obj\Debug\net7.0\refint\coding-kata.dll
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\obj\Debug\net7.0\coding-kata.pdb
+D:\coding kata\CodingKata06-09-24\coding-kata\coding-kata\obj\Debug\net7.0\ref\coding-kata.dll
